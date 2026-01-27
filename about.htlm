@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Green Teva | À propos</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="container header-flex">
+    <div class="logo">
+      <img src="images/logo.jpg" alt="Green Teva Logo">
+    </div>
+    <nav>
+      <a href="index.html">Accueil</a>
+      <a href="about.html">À propos</a>
+      <a href="approach.html">Notre approche</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<section class="section">
+  <div class="container">
+    <h2>Notre équipe</h2>
+    <p>Green Teva s’appuie sur une équipe jeune, dynamique et visionnaire pour chaque domaine clé :</p>
+
+    <h3>Équipe technique & R&D</h3>
+    <p>Ingénieurs et conseillers spécialisés dans les énergies renouvelables et la transition écologique, innovants et experts dans le développement de solutions durables.</p>
+    <div class="cards">
+      <div class="card">
+        <img src="images/team1.jpg" alt="R&D Team" style="width:100%; border-radius:8px;">
+        <p>Ingénieure R&D - Énergie solaire</p>
+      </div>
+      <div class="card">
+        <img src="images/team2.jpg" alt="R&D Team" style="width:100%; border-radius:8px;">
+        <p>Ingénieure R&D - Énergie éolienne</p>
+      </div>
+    </div>
+
+    <h3>Équipe juridique</h3>
+    <p>Experts spécialisés dans la législation et les normes d’investissement durable pour sécuriser chaque projet et respecter la conformité en France et à l’international.</p>
+
+    <h3>Équipe commerciale & conseil</h3>
+    <p>Inspirée des incubateurs, cette équipe accompagne les groupes et entreprises pour accélérer leur croissance, structurer leurs projets et maximiser l’impact écologique et économique.</p>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <p>© 2026 Green Teva - Tous droits réservés</p>
+    <p>Société Green Teva — Mentions légales — Politique de confidentialité</p>
+  </div>
+</footer>
+
+</body>
+</html>
