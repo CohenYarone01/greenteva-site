@@ -21,10 +21,12 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: 20px; /* espace entre logo et menu */
+  padding: 10px 0;
 }
 
 .logo img {
-  height: 50px;   /* Ajuste si besoin */
+  height: 120px;   /* Ajuste si besoin */
   width: auto;
 }
 
