@@ -26,8 +26,9 @@ header {
 }
 
 .logo img {
-  height: 120px;   /* Ajuste si besoin */
+  height: 120px;   /* augmente ou diminue selon la taille désirée */
   width: auto;
+  object-fit: contain; /* empêche l'étirement */
 }
 
 
